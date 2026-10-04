@@ -77,13 +77,9 @@ phonepe-pulse-analysis/
 
 ├── README.md
 
-│
-
 ├── Dashboard/ Screenshots
 
 ├── PowerBI/PhonePe-Pulse.pbix
-
-│
 
 └── Dataset
 
