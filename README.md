@@ -73,20 +73,15 @@ Screenshots of the Power BI dashboard are available in the `Dashboard/Screenshot
 ## 📁 Project Structure
 
 phonepe-pulse-analysis/
-
 │
 
 ├── README.md
 
 │
 
-├── Dashboard/
-  
-    └── Screenshots
+├── Dashboard/ Screenshots
 
-├── PowerBI/
-
-    └── PhonePe-Pulse.pbix
+├── PowerBI/PhonePe-Pulse.pbix
 
 │
 
