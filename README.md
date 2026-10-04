@@ -93,6 +93,18 @@ This project helped me explore how large-scale digital payment data can be trans
 
 ## 🚀 Project Status
 
-Completed
+- Completed
 
-Built as a personal Data Analytics / Power BI project.
+- Built as a personal Data Analytics / Power BI project.
+
+## 👨‍💻 Skills Demonstrated
+
+- Power BI Power 
+
+- Query DAX 
+
+- Data Analysis 
+
+- Data Visualization
+
+Data Modeling
